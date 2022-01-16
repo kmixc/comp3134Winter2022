@@ -1,0 +1,22 @@
+•	What is the definition of server port? 
+- logical endpoints of a network connection that is used to exchange information
+
+
+•	What is server port range? 
+- 0 to 65535 but 0 to 1023 are reserved for privileged services
+
+
+•	How many bits does number above represent? 
+- 16 bits set will give you 65535
+
+•	State 10 common server ports 
+- HTTP = 80
+- FTP = 20, 21
+- DNS = 53
+- HTTPS = 443
+- SSH = 22
+- SMTP = 25
+- TELNET = 23
+- DHCP = 67, 68
+- IMAP = 143
+- NTP = 123
